@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:title="Anasayfa"
+            android:icon="@drawable/anasayfaicon"
+            android:id="@+id/nav_anasayfa"/>
+        <item
+            android:title="Duyurular"
+            android:icon="@drawable/duyuruicon"
+            android:id="@+id/nav_duyuru"/>
+        <item
+            android:title="İş Listelerim"
+            android:icon="@drawable/islisteicon"
+            android:id="@+id/nav_isListesi"/>
+        <item
+            android:title="Vaka Arama"
+            android:icon="@drawable/vakaaramaicon"
+            android:id="@+id/nav_vakaArama"/>
+        <item
+            android:title="Yeni Çağrı"
+            android:icon="@drawable/yenicagriicon"
+            android:id="@+id/nav_yeniCagri"
+            />
+        <item
+            android:title="Çıkış Yap"
+            android:icon="@drawable/logouticon"
+            android:id="@+id/nav_logout"/>
+    </group>
+
+
+</menu>

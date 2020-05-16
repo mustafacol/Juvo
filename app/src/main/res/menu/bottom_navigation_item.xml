@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ozet"
+        android:icon="@drawable/ozetikonu"
+        android:title="Özet"/>
+    <item
+        android:id="@+id/dosyalar"
+        android:icon="@drawable/dosyalarikonu"
+        android:title="Dosyalar"/>
+
+    <item
+        android:id="@+id/aktivite"
+        android:icon="@drawable/aktiviteikonu"
+        android:title="Aktivite"/>
+
+    <item android:id="@+id/diger"
+        android:icon="@drawable/diger"
+        android:title="Diğer"/>
+
+
+</menu>

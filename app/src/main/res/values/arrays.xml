@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="durumSpinnerArray">
+        <item>Durumu</item>
+        <item>(Boş)</item>
+        <item>Açık</item>
+        <item>Aktarıldı</item>
+        <item>Beklemede</item>
+        <item>Bilgi Verildi</item>
+        <item>Doğrudan Zarar - İdare Onayı Bekleniyor</item>
+        <item>Doğrudan Zarar için Teknik Rapor Bekleniyor</item>
+        <item>Doğrudan Zarar İdare Tarafından Onaylandı</item>
+        <item>Doğrudan Zarar İşlemsiz Kapatma Onayı Bekliyor</item>
+        <item>Doğrudan Zarar Kapsamında Düzeltildi</item>
+        <item>Doğrudan Zarar - EK 22 Prosedüründe</item>
+        <item>Doğrudan Zarar - Hatalı Yönlendirme</item>
+        <item>Doğrudan Zarar - İşlemsiz Kapatıldı</item>
+        <item>Doğrudan Zarar İşlemsiz Kapatma Onayını Bekliyor</item>
+    </string-array>
+
+    <string-array name="hizmetSpinnerArray">
+        <item>Hizmet</item>
+        <item>(Boş)</item>
+        <item>(P) - Atık Yönetimi</item>
+        <item>(P) - Bina ve Arazi</item>
+        <item>(P) - Çamaşır</item>
+        <item>(P) - Durum Sorgulama</item>
+        <item>(P) - Genel Hizmet Şartları</item>
+        <item>(P) - Görüntüleme</item>
+        <item>(P) - Güvenlik</item>
+        <item>(P) - Hasta Yönlendirme ve Refakat</item>
+        <item>(P) - HBYS</item>
+        <item>(P) - İlaçlama</item>
+
+    </string-array>
+    <string-array name="digerSpinnerArray">
+        <item>Ek Süre Talebi</item>
+        <item>Ek Süre Talebi Reddedildi</item>
+        <item>Ek Süre Talebi Oynaylandı</item>
+        <item>Ek Süre Talebi Düzeltildi ve Onaylandı</item>
+        <item>Görevlendirme Yapıldı</item>
+        <item>Diğer Aktiviteler</item>
+    </string-array>
+</resources>
